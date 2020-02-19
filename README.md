@@ -1,7 +1,7 @@
 # DOE 
 > Template para um site de doação de sangue
 
-[![NPM Version][npm-image]]
+![NPM Version][npm-image]
 
 
 O intuito desse template é ser de facil utilização por qualquer tipo de usuário, visualmente agradável e dinâmico. 
